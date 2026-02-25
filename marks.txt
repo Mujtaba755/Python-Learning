@@ -1,0 +1,4 @@
+Ali's marks are 10
+Aslam's marks are 20
+Usman marks are 23
+Abdullah's marks are 30
